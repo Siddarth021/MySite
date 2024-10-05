@@ -4,7 +4,6 @@
 ![cap](https://github.com/user-attachments/assets/e8b6f30d-11aa-4cb0-a1e7-b0dc9e8bcfa4)
 
 
-
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
 This is Siddarth from UG-1,CSE .I am now into Coding .I know C and C++ languages .Currectly i am learning Data Structures.Iam a fan of Captain America.
 
@@ -21,7 +20,7 @@ This is Siddarth from UG-1,CSE .I am now into Coding .I know C and C++ languages
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>Dude,I get anger for no reason😡</li>
   <li>Damn!Songs are pleasant🎧</li>
-  <li>I like playing Chess♟️</li>
+  <li>Ofcourse I like playing Chess♟️</li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
